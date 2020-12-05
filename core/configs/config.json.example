@@ -1,0 +1,11 @@
+{
+    "prefix":"",
+    "ownerID":"",
+
+    "botStatus":"online",
+    "enableCustomActivity":false,
+    "botActivity":"",
+    "botActivityType":"",
+
+    "advancedDebugging":false
+}

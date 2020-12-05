@@ -1,0 +1,1 @@
+Place all commands you don't wish to be enabled here, and then restart the bot.
