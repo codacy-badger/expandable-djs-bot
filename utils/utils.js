@@ -1,4 +1,4 @@
-const { successColour, errorColour } = require('../core/configs/config.json');
+const { successColour, errorColour } = require('../core/configs/embedcolours.json');
 
 /*
  * This function sets up a "confirm/deny" reaction event on the given message, userid is for what user can confirm or deny this event and embed is for
