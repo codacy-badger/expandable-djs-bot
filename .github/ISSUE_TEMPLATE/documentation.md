@@ -1,8 +1,8 @@
 ---
-name: 📃 Documentation
+name: Documentation
 about: Suggest edits or new documentation
-title: 'DOCS: '
-labels: 'type: documentation'
+title: 'Docs: '
+labels: documentation
 ---
 ### Describe Changes
 A clear and concise description of what is being added/changed
