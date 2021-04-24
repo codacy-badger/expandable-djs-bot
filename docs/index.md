@@ -4,9 +4,9 @@ sidebar_label: Welcome
 slug: /
 ---
 
-Expandable-DJS-Bot \(EDB\) is a discord.js bot boilerplate, allowing for easy expansion with new commands, translations and more.
+Expandable-DJS-Bot \(EDB\) is a discord.js bot template, allowing for easy expansion with new commands, translations and more.
 
-This boilerplate has been created from the ground up based on multiple discord bots made in the past, and provides an easy to understand and maintain environment.
+This template has been created from the ground up based on multiple discord bots made in the past, and provides an easy to understand and maintain environment.
 
 ## How do I install/setup EDB?
 
